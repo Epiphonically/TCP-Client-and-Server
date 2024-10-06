@@ -1,0 +1,11 @@
+spd = 1;
+pickup_range = 20;
+angle_to_mouse = 0;
+angle_to_mouse_raw = 0;
+x_axis = 0;
+y_axis = 0;
+dir = 0;
+x_spd = 0;
+y_spd = 0;
+state = STATES.DEFAULT;
+image_speed = 0;

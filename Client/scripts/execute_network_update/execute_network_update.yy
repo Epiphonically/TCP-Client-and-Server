@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"execute_network_update",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"execute_network_update",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,2 @@
+#macro INVENTORY_SIZE 15
+#macro MAX_DRAWING 50
